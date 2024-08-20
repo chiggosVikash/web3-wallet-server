@@ -14,7 +14,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/web-wallet.git
+    git clone https://github.com/chiggosVikash/web3-wallet-server.git
     cd web-wallet
     ```
 
